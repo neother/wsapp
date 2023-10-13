@@ -1,0 +1,88 @@
+.modalx {
+    /* width: 100%; */
+    max-width: none !important;
+
+    /* left: 10%; */
+    top: 10%;
+    /* right:10%; */
+    /* margin: auto; */
+    /* position: fixed; */
+    /* align-self: center; */
+}
+
+.redNumber {
+    color: red;
+}
+
+.greenNumber {
+    color: green;
+
+}
+
+.redRow {
+    color: red;
+    background-color: "#242424";
+    /* background-color: white; */
+    /* min-height: 70px; */
+    font-size: x-small;
+
+    /* color: #fff; */
+    /* animation: fade 1s infinite; */
+    /* -webkit-anim
+    ation: fade 1s infinite; */
+}
+
+.wheatFont {
+    color: wheat;
+}
+
+.view {
+    color: red;
+    border-color: seagreen;
+}
+
+
+.greenRow {
+    color: green;
+    /* background-color: white; */
+    font-size: x-small;
+    height: 7px;
+    background-color: "#242424";
+    /* animation: fade 1s infinite; */
+    /* -webkit-animation: fade 1s infinite; */
+}
+
+.normalRow {
+    color: wheat;
+
+    /* background-color:white; */
+}
+
+
+@keyframes fade {
+    from {
+        opacity: 1.0;
+    }
+
+    50% {
+        opacity: 0.1;
+    }
+
+    to {
+        opacity: 1.0;
+    }
+}
+
+@-webkit-keyframes fade {
+    from {
+        opacity: 1.0;
+    }
+
+    50% {
+        opacity: 0.1;
+    }
+
+    to {
+        opacity: 1.0;
+    }
+}

@@ -1,0 +1,44 @@
+.info {
+  margin-left: 10px;
+  font-size: x-large;
+  color: wheat;
+  font-weight: bold;
+  /* background-color: white; */
+  /* padding: 0px; */
+  /* text-align: center; */
+  /* vertical-align: bottom; */
+
+}
+
+.latest {
+  margin-left: 10px;
+  font-size: large;
+  color: wheat;
+  font-weight: bold;
+  /* background-color: white; */
+  /* padding: 0px; */
+  /* text-align: center; */
+  /* vertical-align: bottom; */
+
+}
+
+
+.account {
+  /* margin-left: 10px; */
+  /* font-size: small;
+  color: wheat; */
+  /* font-weight: bold; */
+  /* background-color: white; */
+  /* padding: 0px; */
+  /* text-align: center; */
+  /* vertical-align: bottom; */
+
+}
+
+.profit {
+  color: red;
+}
+
+.loss {
+  color: green;
+}

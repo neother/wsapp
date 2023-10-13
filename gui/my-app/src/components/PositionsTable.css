@@ -1,0 +1,40 @@
+.profit {
+  color: red;
+}
+
+.loss {
+  color: green;
+}
+
+.p-small-button {
+  padding: 0;
+  /* remove padding to make the button more compact */
+  vertical-align: middle;
+  color: wheat;
+  border-color: wheat;
+
+  /* center the button vertically within the td */
+}
+
+.p-small-button .btn {
+  color: wheat;
+  border-color: wheat;
+  font-size: 0.8rem;
+  /* reduce the font size of the button text */
+  padding: 0.03rem 0.3rem;
+  margin-right: 3px;
+  /* adjust padding to make the button more compact */
+}
+
+.highlighted-row {
+  background-color: #212529;
+  /* background-color: white; */
+}
+
+
+tbody:focus {
+
+  outline: 1px solid wheat;
+
+  outline-offset: -1px
+}

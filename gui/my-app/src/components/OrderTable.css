@@ -1,0 +1,26 @@
+.profit {
+  color: red;
+}
+
+.loss {
+  color: green;
+}
+
+.small-button {
+  padding: 0;
+  /* remove padding to make the button more compact */
+  vertical-align: middle;
+  color: wheat;
+  border-color: wheat;
+
+  /* center the button vertically within the td */
+}
+
+.small-button .btn {
+  color: wheat;
+  border-color: wheat;
+  font-size: 0.8rem;
+  /* reduce the font size of the button text */
+  padding: 0.03rem 1.2rem;
+  /* adjust padding to make the button more compact */
+}

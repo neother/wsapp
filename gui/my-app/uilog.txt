@@ -1,0 +1,10 @@
+
+> gui@0.1.0 start
+> export NODE_OPTIONS=--openssl-legacy-provider && react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://10.0.0.7/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /Users/qit/Documents/wsapp/wsapp/gui/my-app/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+Starting the development server...
+

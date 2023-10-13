@@ -1,0 +1,62 @@
+.scale {
+  display: flex;
+  justify-content: space-between;
+}
+
+
+.scale button {
+  flex: 1;
+  width: 10%;
+  margin-right: 35px;
+}
+
+.highlighted-row {
+  background-color: rgb(31, 55, 90);
+  /* vertical-align: bottom; */
+  /* background-color: silver; */
+}
+
+.highlighted-col {
+  background-color: black;
+}
+
+.info_name {
+  display: flex;
+  margin-left: 10px;
+  font-size: x-large;
+  color: wheat;
+  font-weight: bold;
+  justify-content: space-between;
+
+}
+
+
+.direction-button {
+  padding: 0;
+  /* remove padding to make the button more compact */
+  vertical-align: middle;
+  color: wheat;
+  border-color: wheat;
+
+  /* center the button vertically within the td */
+}
+
+.direction-button .btn {
+  color: wheat;
+  border-color: wheat;
+  font-size: 0.7rem;
+  /* reduce the font size of the button text */
+  padding: 0.03rem 0.3rem;
+  margin-right: 1px;
+  /* adjust padding to make the button more compact */
+}
+
+/* .table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
+  background-color: #f5f5f5;
+}
+
+.table-hover tbody tr:hover td:nth-child(1),
+.table-hover tbody tr:hover th:nth-child(1) {
+  background-color: #e6e6e6;
+} */

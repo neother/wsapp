@@ -1,0 +1,15 @@
+.stock_table {
+
+  /* width: 90%; */
+  /* float: middle; */
+  margin: auto;
+  background-color: #242424;
+  color: wheat;
+  border-width: 1px;
+  border-color: white;
+
+}
+
+.selected {
+  background-color: #313b44;
+}

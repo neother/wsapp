@@ -1,0 +1,16 @@
+.Nav {
+
+    font-size: x-large;
+
+
+}
+
+.FontColor {
+    color: red;
+}
+
+.head {
+    display: flex;
+    background-color: #343a40;
+    justify-Content: space-between
+}

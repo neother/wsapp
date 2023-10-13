@@ -1,0 +1,33 @@
+.info {
+  margin-left: 10px;
+  font-size: x-large;
+  color: wheat;
+  font-weight: bold;
+}
+
+.trade {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5px;
+}
+
+
+.trade button {
+  flex: 1;
+  max-width: 100%;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+
+.button {
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+
+
+.disabled-input {
+  background-color: #3729b1;
+  color: rgb(52, 61, 61);
+}
