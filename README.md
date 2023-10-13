@@ -20,7 +20,7 @@ automatically. Any ask or bid prices will be reflected on the UI for easy refere
 In the futures page - Auto button will enable the automatic trade base on your stragegy
 
 ![Alt text](image.png)
-In the Dashboard page - you can do backtest for your stragegy to test if it works
+In the Dashboard page - you can do backtest with your stragegy to see if you make some consistent profit :)
 
 ![Alt text](image-1.png)
 
