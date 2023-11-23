@@ -2,7 +2,7 @@
 
 An automatic futures trading web application.
 react-eCharts is used to build the UI and use web socket to connect the backend which
-implement by python web frame fast-app. The backend service will connect the account from
+implement by python web frame fastapi. The backend service will connect the account from
 real futures agent.
 You now can trade futures on web seamlessly instead of downloading any desktop
 application. You now can write and backtest their own trade strategies and trade the futures
